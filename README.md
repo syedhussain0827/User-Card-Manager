@@ -15,3 +15,10 @@ HTML5
 Tailwind CSS
 JavaScript (ES6)
 Browser Local Storage
+
+📸 Preview
+Users can:
+Fill the form with user details
+Submit the form
+Instantly see a user card added below
+Refresh the page without losing data
